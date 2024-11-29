@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫** About Me:**
 🖤 Currently breaking into: Advanced exploit dev & network pentesting.<br>👾 Collaboration goals: Building tools for hackers, cracking challenges.<br>🔧 Need help with: Reverse engineering tricky binaries.<br>📖 Currently learning: AI-driven malware & offensive scripting.<br>💬 Ask me about: Wi-Fi hacking, OSINT, and crypto security.<br>⚡ Fun fact: I turn glitches into masterpieces.
 
 
